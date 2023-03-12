@@ -68,7 +68,7 @@ export declare const LAUNCH_EVENT_LENS_ADDRESS: {
 export declare const ROCKET_JOE_STAKING_ADDRESS: {
     [chainId in ChainId]: string;
 };
-export declare const INIT_CODE_HASH = "0xe18a34eb0e04b04f7a0ac29a6e80748dca96319b42c54d679cb821dca90c6303";
+export declare const INIT_CODE_HASH = "0x21db319e404f97587f45b58bf3e1e45fbeca7f0f0c0aadaec38814c2d7e80f2f";
 export declare const MINIMUM_LIQUIDITY: JSBI;
 export declare const ZERO: JSBI;
 export declare const ONE: JSBI;
