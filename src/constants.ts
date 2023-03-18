@@ -125,7 +125,7 @@ export const ROCKET_JOE_STAKING_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.AVALANCHE]: '0x102D195C3eE8BF8A9A89d63FB3659432d3174d81'
 }
 
-export const INIT_CODE_HASH = '0x21db319e404f97587f45b58bf3e1e45fbeca7f0f0c0aadaec38814c2d7e80f2f'
+export const INIT_CODE_HASH = '0xe18a34eb0e04b04f7a0ac29a6e80748dca96319b42c54d679cb821dca90c6303'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
